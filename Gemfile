@@ -9,3 +9,5 @@ end
 gem "hashie"
 
 gem "octokit", "~> 2.0"
+
+gem "Awesome_Print", "git@github\.com:awesome\-print\/awesome_print\.git"
