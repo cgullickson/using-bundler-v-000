@@ -10,4 +10,4 @@ gem "hashie"
 
 gem "octokit", "~> 2.0"
 
-gem "Awesome_Print"
+gem "awesome_print"
